@@ -1,5 +1,5 @@
 # Capstone Project Module 3 - End-to-End Machine Learning Project
-## California Housing Price
+## California Housing Price Prediction
 
 **Context**
 
